@@ -1,4 +1,6 @@
-# Initialize a package
+# Hello agent using OpenAI Agents SDK and Gemini API Key
+
+## Initialize a package
 
 ```
 uv init --package hello_agent
