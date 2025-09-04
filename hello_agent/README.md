@@ -27,4 +27,5 @@ uv run hello-agent
 
 ```
 uv add openai-agents
+uv add chainlit
 ```
