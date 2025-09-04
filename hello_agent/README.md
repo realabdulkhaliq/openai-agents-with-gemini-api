@@ -20,3 +20,11 @@ To run
 ```
 uv run hello-agent
 ```
+
+## Add Dependency
+
+```
+uv add openai-agents
+```
+
+s
