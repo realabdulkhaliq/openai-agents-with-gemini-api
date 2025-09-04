@@ -1,4 +1,4 @@
-# Hello agent using OpenAI Agents SDK and Gemini API Key
+# Hello agent using OpenAI Agents SDK, Gemini API Key and Chainlit for CUI
 
 ## Initialize a package
 
@@ -28,5 +28,3 @@ uv run hello-agent
 ```
 uv add openai-agents
 ```
-
-s
