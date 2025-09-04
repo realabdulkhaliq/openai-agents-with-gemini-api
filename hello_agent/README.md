@@ -29,3 +29,18 @@ uv run hello-agent
 uv add openai-agents
 uv add chainlit
 ```
+
+## Run Chainlit
+
+```
+uv run chainlit hello
+```
+
+Now create a file chatbot.py in src\hello_agent folder.
+To run chatbot.py file
+
+```
+cd src
+cd hello_agent
+uv run chainlit run chatbot.py -w
+```
