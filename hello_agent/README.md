@@ -44,3 +44,5 @@ cd src
 cd hello_agent
 uv run chainlit run chatbot.py -w
 ```
+
+-w flag is for hot reload
