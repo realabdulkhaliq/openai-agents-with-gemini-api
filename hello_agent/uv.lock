@@ -549,12 +549,14 @@ source = { editable = "." }
 dependencies = [
     { name = "chainlit" },
     { name = "openai-agents" },
+    { name = "python-dotenv" },
 ]
 
 [package.metadata]
 requires-dist = [
     { name = "chainlit", specifier = ">=2.7.2" },
     { name = "openai-agents", specifier = ">=0.2.11" },
+    { name = "python-dotenv", specifier = ">=1.1.1" },
 ]
 
 [[package]]

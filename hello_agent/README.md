@@ -28,6 +28,7 @@ uv run hello-agent
 ```
 uv add openai-agents
 uv add chainlit
+uv add python-dotenv
 ```
 
 ## Run Chainlit
